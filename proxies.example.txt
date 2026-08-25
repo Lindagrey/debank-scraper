@@ -1,0 +1,3 @@
+# One proxy per line
+# host:port
+# host:port:user:pass

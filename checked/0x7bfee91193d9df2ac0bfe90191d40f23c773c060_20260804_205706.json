@@ -1,0 +1,1660 @@
+{
+  "checked_at": "2026-08-04T20:57:06+03:00",
+  "address": "0x7bfee91193d9df2ac0bfe90191d40f23c773c060",
+  "total": "$30,079,026",
+  "chains": [
+    {
+      "name": "HyperEVM",
+      "balance": "$24,882,550"
+    },
+    {
+      "name": "Ethereum",
+      "balance": "$3,570,342"
+    },
+    {
+      "name": "Hyperliquid",
+      "balance": "$1,035,463"
+    },
+    {
+      "name": "Berachain",
+      "balance": "$258,003"
+    },
+    {
+      "name": "BNB Chain",
+      "balance": "$129,186"
+    },
+    {
+      "name": "Base",
+      "balance": "$72,161"
+    },
+    {
+      "name": "Linea",
+      "balance": "$34,431"
+    }
+  ],
+  "protocols": [
+    {
+      "assets": [
+        {
+          "details": "$55.5990 | 32,305.1827",
+          "symbol": "HYPE",
+          "usd": "$1,796,136"
+        },
+        {
+          "details": "$55.6896 | 10,000.0110",
+          "symbol": "hlHYPE",
+          "usd": "$556,896.72"
+        },
+        {
+          "details": "$1,868.7600 | 294.5768",
+          "symbol": "ETH",
+          "usd": "$550,493.40"
+        },
+        {
+          "details": "$55.5990 | 8,389.6030",
+          "symbol": "WHYPE",
+          "usd": "$466,453.54"
+        },
+        {
+          "details": "$57.2137 | 1,089.2658",
+          "symbol": "LHYPE",
+          "usd": "$62,320.93"
+        },
+        {
+          "details": "$4,067.7613 | 9.4304",
+          "symbol": "XAUt0",
+          "usd": "$38,360.77"
+        },
+        {
+          "details": "$1.0330 | 32,850.3103",
+          "symbol": "USDbr",
+          "usd": "$33,935.84"
+        },
+        {
+          "details": "$1.1248 | 24,942.3223",
+          "symbol": "WHLP",
+          "usd": "$28,055.81"
+        },
+        {
+          "details": "$0.0023 | 10,727,657.1954",
+          "symbol": "LINEA",
+          "usd": "$24,448.33"
+        },
+        {
+          "details": "$1,873.5891 | 7.5363",
+          "symbol": "UETH",
+          "usd": "$14,119.91"
+        },
+        {
+          "details": "$0.0061 | 1,319,363.9929",
+          "symbol": "REX33",
+          "usd": "$8,104.10"
+        },
+        {
+          "details": "$1.1667 | 4,985.3104",
+          "symbol": "bbHLP",
+          "usd": "$5,816.34"
+        },
+        {
+          "details": "$55.5600 | 103.8187",
+          "symbol": "stHYPE",
+          "usd": "$5,768.17"
+        },
+        {
+          "details": "$0.0138 | 375,820.7550",
+          "symbol": "HEGIC",
+          "usd": "$5,192.88"
+        },
+        {
+          "details": "$18.7623 | 226.9743",
+          "symbol": "OHM",
+          "usd": "$4,258.56"
+        },
+        {
+          "details": "$1,868.7600 | 1.6044",
+          "symbol": "ETH",
+          "usd": "$2,998.29"
+        },
+        {
+          "details": "$64,010.5300 | 0.0366",
+          "symbol": "WBTC",
+          "usd": "$2,343.08"
+        },
+        {
+          "details": "$2,055.5038 | 1.0000",
+          "symbol": "weETH",
+          "usd": "$2,055.50"
+        },
+        {
+          "details": "$0.0061 | 241,210.9700",
+          "symbol": "SNT",
+          "usd": "$1,463.79"
+        },
+        {
+          "details": "$0.0617 | 21,440.7823",
+          "symbol": "VDO",
+          "usd": "$1,323.68"
+        },
+        {
+          "details": "$0.0025 | 524,777.7863",
+          "symbol": "COOK",
+          "usd": "$1,290.16"
+        }
+      ],
+      "balance": "$3,617,261",
+      "name": "Wallet"
+    },
+    {
+      "assets": [],
+      "balance": "$13,874,516",
+      "name": "Kinetiq"
+    },
+    {
+      "assets": [],
+      "balance": "$2,759,543",
+      "name": "D2.finance"
+    },
+    {
+      "assets": [],
+      "balance": "$2,478,736",
+      "name": "HyperLend"
+    },
+    {
+      "assets": [],
+      "balance": "$1,515,902",
+      "name": "Hyperbeat"
+    },
+    {
+      "assets": [],
+      "balance": "$1,035,463",
+      "name": "Hyperliquid"
+    },
+    {
+      "assets": [],
+      "balance": "$642,260",
+      "name": "ether.fi"
+    },
+    {
+      "assets": [],
+      "balance": "$630,301",
+      "name": "Monetrix"
+    },
+    {
+      "assets": [],
+      "balance": "$528,756",
+      "name": "Harmonix Finance"
+    },
+    {
+      "assets": [],
+      "balance": "$473,775",
+      "name": "LIDO"
+    },
+    {
+      "assets": [],
+      "balance": "$448,974",
+      "name": "Rysk"
+    },
+    {
+      "assets": [],
+      "balance": "$345,581",
+      "name": "Origami Finance"
+    },
+    {
+      "assets": [],
+      "balance": "$259,108",
+      "name": "Lombard"
+    },
+    {
+      "assets": [],
+      "balance": "$235,689",
+      "name": "IPOR"
+    },
+    {
+      "assets": [],
+      "balance": "$211,507",
+      "name": "Dolomite"
+    },
+    {
+      "assets": [],
+      "balance": "$128,064",
+      "name": "Euler"
+    },
+    {
+      "assets": [],
+      "balance": "$107,234",
+      "name": "TempleDAO"
+    },
+    {
+      "assets": [],
+      "balance": "$88,015",
+      "name": "Aave V2"
+    },
+    {
+      "assets": [],
+      "balance": "$68,118",
+      "name": "Aerodrome"
+    },
+    {
+      "assets": [],
+      "balance": "$61,151",
+      "name": "Asymmetry Finance"
+    },
+    {
+      "assets": [],
+      "balance": "$55,327",
+      "name": "Convex"
+    },
+    {
+      "assets": [],
+      "balance": "$42,898",
+      "name": "Felix"
+    },
+    {
+      "assets": [],
+      "balance": "$33,876",
+      "name": "Yearn V3"
+    },
+    {
+      "assets": [],
+      "balance": "$31,556",
+      "name": "Liquity V2"
+    },
+    {
+      "assets": [],
+      "balance": "$26,764",
+      "name": "CLever CVX"
+    },
+    {
+      "assets": [],
+      "balance": "$24,965",
+      "name": "Nova"
+    },
+    {
+      "assets": [],
+      "balance": "$24,191",
+      "name": "EigenLayer"
+    },
+    {
+      "assets": [],
+      "balance": "$21,475",
+      "name": "Liminal"
+    },
+    {
+      "assets": [],
+      "balance": "$20,977",
+      "name": "Hybra Finance"
+    },
+    {
+      "assets": [],
+      "balance": "$18,557",
+      "name": "Convex"
+    },
+    {
+      "assets": [],
+      "balance": "$18,010",
+      "name": "f(x) Protocol"
+    },
+    {
+      "assets": [],
+      "balance": "$16,328",
+      "name": "Aave V3"
+    },
+    {
+      "assets": [],
+      "balance": "$15,946",
+      "name": "UwU Lend"
+    },
+    {
+      "assets": [],
+      "balance": "$15,212",
+      "name": "Index Coop"
+    },
+    {
+      "assets": [],
+      "balance": "$13,870",
+      "name": "Nado Orderbook DEX"
+    },
+    {
+      "assets": [],
+      "balance": "$13,218",
+      "name": "Curve"
+    },
+    {
+      "assets": [],
+      "balance": "$12,617",
+      "name": "Dolomite"
+    },
+    {
+      "assets": [],
+      "balance": "$10,498",
+      "name": "Ambient"
+    },
+    {
+      "assets": [],
+      "balance": "$10,126",
+      "name": "Teller"
+    },
+    {
+      "assets": [],
+      "balance": "$9,829",
+      "name": "Stream Finance"
+    },
+    {
+      "assets": [],
+      "balance": "$8,492",
+      "name": "Strata"
+    },
+    {
+      "assets": [],
+      "balance": "$7,590",
+      "name": "Velodrome V2"
+    },
+    {
+      "assets": [],
+      "balance": "$7,134",
+      "name": "Fixedforex"
+    },
+    {
+      "assets": [],
+      "balance": "$6,999",
+      "name": "StakeStone"
+    },
+    {
+      "assets": [],
+      "balance": "$6,003",
+      "name": "mellow"
+    },
+    {
+      "assets": [],
+      "balance": "$5,234",
+      "name": "Aladdin"
+    },
+    {
+      "assets": [],
+      "balance": "$5,182",
+      "name": "Euler"
+    },
+    {
+      "assets": [],
+      "balance": "$5,026",
+      "name": "D2.finance"
+    },
+    {
+      "assets": [],
+      "balance": "$4,539",
+      "name": "Interport Finance"
+    },
+    {
+      "assets": [],
+      "balance": "$4,444",
+      "name": "Goldilocks"
+    },
+    {
+      "assets": [],
+      "balance": "$4,167",
+      "name": "Alchemix V2"
+    },
+    {
+      "assets": [],
+      "balance": "$4,111",
+      "name": "Ebisu"
+    },
+    {
+      "assets": [],
+      "balance": "$3,892",
+      "name": "Yay!"
+    },
+    {
+      "assets": [],
+      "balance": "$2,959",
+      "name": "Beefy"
+    },
+    {
+      "assets": [],
+      "balance": "$2,718",
+      "name": "Concentrator"
+    },
+    {
+      "assets": [],
+      "balance": "$2,541",
+      "name": "Kodiak"
+    },
+    {
+      "assets": [],
+      "balance": "$2,412",
+      "name": "Cream"
+    },
+    {
+      "assets": [],
+      "balance": "$2,155",
+      "name": "unshETH"
+    },
+    {
+      "assets": [],
+      "balance": "$2,131",
+      "name": "Pell Network"
+    },
+    {
+      "assets": [],
+      "balance": "$2,129",
+      "name": "Hyperwave"
+    },
+    {
+      "assets": [],
+      "balance": "$2,004",
+      "name": "shMonad"
+    },
+    {
+      "assets": [],
+      "balance": "$1,990",
+      "name": "Mitosis"
+    },
+    {
+      "assets": [],
+      "balance": "$1,954",
+      "name": "RAMSES"
+    },
+    {
+      "assets": [],
+      "balance": "$1,890",
+      "name": "Tenderize"
+    },
+    {
+      "assets": [],
+      "balance": "$1,827",
+      "name": "Renzo"
+    },
+    {
+      "assets": [],
+      "balance": "$1,825",
+      "name": "Smilee"
+    },
+    {
+      "assets": [],
+      "balance": "$1,671",
+      "name": "KittenSwap"
+    },
+    {
+      "assets": [],
+      "balance": "$1,543",
+      "name": "Symbiotic"
+    },
+    {
+      "assets": [],
+      "balance": "$1,473",
+      "name": "Aavegotchi"
+    },
+    {
+      "assets": [],
+      "balance": "$1,442",
+      "name": "Llama Airforce Union"
+    },
+    {
+      "assets": [],
+      "balance": "$1,220",
+      "name": "BeraHub"
+    },
+    {
+      "assets": [],
+      "balance": "$1,152",
+      "name": "Sanko GameCorp"
+    },
+    {
+      "assets": [],
+      "balance": "$1,104",
+      "name": "Stake DAO"
+    },
+    {
+      "assets": [],
+      "balance": "$1,071",
+      "name": "Avalon Finance"
+    },
+    {
+      "assets": [],
+      "balance": "$1,016",
+      "name": "Yarm"
+    }
+  ],
+  "tokens": [
+    {
+      "symbol": "HYPE",
+      "chain": "hyper",
+      "contract": "hyper",
+      "usd_value": "$1,796,136"
+    },
+    {
+      "symbol": "hlHYPE",
+      "chain": "hyper",
+      "contract": "0xbee62d1b61af920098873bd0336b46a5efdc0e83",
+      "usd_value": "$556,896.72"
+    },
+    {
+      "symbol": "ETH",
+      "chain": "eth",
+      "contract": "eth",
+      "usd_value": "$550,493.40"
+    },
+    {
+      "symbol": "WHYPE",
+      "chain": "hyper",
+      "contract": "0x5555555555555555555555555555555555555555",
+      "usd_value": "$466,453.54"
+    },
+    {
+      "symbol": "LHYPE",
+      "chain": "hyper",
+      "contract": "0x5748ae796ae46a4f1348a1693de4b50560485562",
+      "usd_value": "$62,320.93"
+    },
+    {
+      "symbol": "XAUt0",
+      "chain": "hyper",
+      "contract": "0xf4d9235269a96aadafc9adae454a0618ebe37949",
+      "usd_value": "$38,360.77"
+    },
+    {
+      "symbol": "USDbr",
+      "chain": "bera",
+      "contract": "0x6d4223dae2a8744a85a6d44e97f3f61679f87ee6",
+      "usd_value": "$33,935.84"
+    },
+    {
+      "symbol": "WHLP",
+      "chain": "hyper",
+      "contract": "0x1359b05241ca5076c9f59605214f4f84114c0de8",
+      "usd_value": "$28,055.81"
+    },
+    {
+      "symbol": "LINEA",
+      "chain": "linea",
+      "contract": "0x1789e0043623282d5dcc7f213d703c6d8bafbb04",
+      "usd_value": "$24,448.33"
+    },
+    {
+      "symbol": "UETH",
+      "chain": "hyper",
+      "contract": "0xbe6727b535545c67d5caa73dea54865b92cf7907",
+      "usd_value": "$14,119.91"
+    },
+    {
+      "symbol": "REX33",
+      "chain": "linea",
+      "contract": "0xe4eeb461ad1e4ef8b8ef71a33694ccd84af051c4",
+      "usd_value": "$8,104.10"
+    },
+    {
+      "symbol": "bbHLP",
+      "chain": "hyper",
+      "contract": "0x4bb19336c973506b9405db586b7aee302a7cbcfc",
+      "usd_value": "$5,816.34"
+    },
+    {
+      "symbol": "stHYPE",
+      "chain": "hyper",
+      "contract": "0xffaa4a3d97fe9107cef8a3f48c069f577ff76cc1",
+      "usd_value": "$5,768.17"
+    },
+    {
+      "symbol": "HEGIC",
+      "chain": "arb",
+      "contract": "0x431402e8b9de9aa016c743880e04e517074d8cec",
+      "usd_value": "$5,192.88"
+    },
+    {
+      "symbol": "OHM",
+      "chain": "eth",
+      "contract": "0x64aa3364f17a4d01c6f1751fd97c2bd3d7e7f1d5",
+      "usd_value": "$4,258.56"
+    },
+    {
+      "symbol": "ETH",
+      "chain": "base",
+      "contract": "base",
+      "usd_value": "$2,998.29"
+    },
+    {
+      "symbol": "WBTC",
+      "chain": "eth",
+      "contract": "0x2260fac5e5542a773aa44fbcfedf7c193bc2c599",
+      "usd_value": "$2,343.08"
+    },
+    {
+      "symbol": "weETH",
+      "chain": "hyper",
+      "contract": "0xa3d68b74bf0528fdd07263c60d6488749044914b",
+      "usd_value": "$2,055.50"
+    },
+    {
+      "symbol": "SNT",
+      "chain": "linea",
+      "contract": "0xa3c26a308ac52520320ebcafdba0bb0aaa105ee8",
+      "usd_value": "$1,463.79"
+    },
+    {
+      "symbol": "VDO",
+      "chain": "hyper",
+      "contract": "0xb5ee887259f792e613edbd20dde8970c10fefda1",
+      "usd_value": "$1,323.68"
+    },
+    {
+      "symbol": "COOK",
+      "chain": "mnt",
+      "contract": "0x9f0c013016e8656bc256f948cd4b79ab25c7b94d",
+      "usd_value": "$1,290.16"
+    },
+    {
+      "symbol": "vkHYPE",
+      "chain": "hyper",
+      "contract": "0x9ba2edc44e0a4632eb4723e81d4142353e1bb160",
+      "usd_value": ""
+    },
+    {
+      "symbol": "kHYPE",
+      "chain": "hyper",
+      "contract": "0xfd739d4e423301ce9385c1fb8850539d657c296d",
+      "usd_value": ""
+    },
+    {
+      "symbol": "KNTQ",
+      "chain": "hyper",
+      "contract": "0x000000000000780555bd0bca3791f89f9542c2d6",
+      "usd_value": ""
+    },
+    {
+      "symbol": "UBTC",
+      "chain": "hyper",
+      "contract": "0x9fdbda0a5e284c32744d2f17ee5c74b284993463",
+      "usd_value": ""
+    },
+    {
+      "symbol": "USD₮0",
+      "chain": "hyper",
+      "contract": "0xb8ce59fc3717ada4c02eadf9682a9e934f625ebb",
+      "usd_value": ""
+    },
+    {
+      "symbol": "wstHYPE",
+      "chain": "hyper",
+      "contract": "0x94e8396e0869c9f2200760af0621afd240e1cf38",
+      "usd_value": ""
+    },
+    {
+      "symbol": "USOL",
+      "chain": "hyper",
+      "contract": "0x068f321fa8fb9f0d135f290ef6a3e2813e1c8a29",
+      "usd_value": ""
+    },
+    {
+      "symbol": "USR",
+      "chain": "hyper",
+      "contract": "0x0ad339d66bf4aed5ce31c64bc37b3244b6394a77",
+      "usd_value": ""
+    },
+    {
+      "symbol": "HPL",
+      "chain": "hyper",
+      "contract": "0xbd6dab50f03a305a80037294fa8d1a9dc0cac91b",
+      "usd_value": ""
+    },
+    {
+      "symbol": "USDC",
+      "chain": "hyper",
+      "contract": "0xb88339cb7199b77e23db6e890353e22632ba630f",
+      "usd_value": ""
+    },
+    {
+      "symbol": "HYPE",
+      "chain": "undefined",
+      "contract": "d5a5183d02b53799e850a361c553de44",
+      "usd_value": ""
+    },
+    {
+      "symbol": "USDC",
+      "chain": "undefined",
+      "contract": "cbc85c2463806ead7328a5da06425a2b",
+      "usd_value": ""
+    },
+    {
+      "symbol": "POINTS",
+      "chain": "undefined",
+      "contract": "678e3de5743917ca2a52710c4691be83",
+      "usd_value": ""
+    },
+    {
+      "symbol": "GMEOW",
+      "chain": "undefined",
+      "contract": "d068e6991a5d00ea8447393b33a5de7e",
+      "usd_value": ""
+    },
+    {
+      "symbol": "PEPE",
+      "chain": "undefined",
+      "contract": "7a779cf7a967f609679a0eac6f17a82c",
+      "usd_value": ""
+    },
+    {
+      "symbol": "XULIAN",
+      "chain": "undefined",
+      "contract": "36baf944af2dece4c2fdf398f1ff06fe",
+      "usd_value": ""
+    },
+    {
+      "symbol": "RUG",
+      "chain": "undefined",
+      "contract": "e449889c0713127eb19bfa25adbaec8d",
+      "usd_value": ""
+    },
+    {
+      "symbol": "ILIENS",
+      "chain": "undefined",
+      "contract": "e95c9a22dfe5098615d0e53090a715cb",
+      "usd_value": ""
+    },
+    {
+      "symbol": "FUN",
+      "chain": "undefined",
+      "contract": "73c0bdcd2f0d14db607ebfb46ff2eb7b",
+      "usd_value": ""
+    },
+    {
+      "symbol": "BIGBEN",
+      "chain": "undefined",
+      "contract": "dad1df044fd0568fbedb4a0e832fb423",
+      "usd_value": ""
+    },
+    {
+      "symbol": "PUMP",
+      "chain": "undefined",
+      "contract": "bd3a1ef68060db03a4c2c37f459ceee1",
+      "usd_value": ""
+    },
+    {
+      "symbol": "CATNIP",
+      "chain": "undefined",
+      "contract": "507ad4e19210e6a17765ff9381f123d6",
+      "usd_value": ""
+    },
+    {
+      "symbol": "GUP",
+      "chain": "undefined",
+      "contract": "cad795132f64a53e1b7d9845555126df",
+      "usd_value": ""
+    },
+    {
+      "symbol": "GPT",
+      "chain": "undefined",
+      "contract": "3ab0b76b8a3429e31a3793bc52d541a1",
+      "usd_value": ""
+    },
+    {
+      "symbol": "PANDA",
+      "chain": "undefined",
+      "contract": "fd37cd01c9c58a0f4baf1673cccadec9",
+      "usd_value": ""
+    },
+    {
+      "symbol": "BID",
+      "chain": "undefined",
+      "contract": "3d36b295cda9dd685bc4c734a5374a37",
+      "usd_value": ""
+    },
+    {
+      "symbol": "HODL",
+      "chain": "undefined",
+      "contract": "8b49db663d2f29e150c4b9dc90c26980",
+      "usd_value": ""
+    },
+    {
+      "symbol": "RAGE",
+      "chain": "undefined",
+      "contract": "0ae094ef41b419c6e387ca5ab75531f9",
+      "usd_value": ""
+    },
+    {
+      "symbol": "VAPOR",
+      "chain": "undefined",
+      "contract": "d22bf0656e8aa40cf6976352d3b8cdb8",
+      "usd_value": ""
+    },
+    {
+      "symbol": "PILL",
+      "chain": "undefined",
+      "contract": "3a5d40babfb1911240c11438fa60d6f0",
+      "usd_value": ""
+    },
+    {
+      "symbol": "LADY",
+      "chain": "undefined",
+      "contract": "7494b86f3583c1ba8be6f2ff799951bc",
+      "usd_value": ""
+    },
+    {
+      "symbol": "HPEPE",
+      "chain": "undefined",
+      "contract": "c71946521257e8629e56e1d512491582",
+      "usd_value": ""
+    },
+    {
+      "symbol": "MBAPPE",
+      "chain": "undefined",
+      "contract": "dcd75491244e961ba71f8e5050e3b8da",
+      "usd_value": ""
+    },
+    {
+      "symbol": "MAGA",
+      "chain": "undefined",
+      "contract": "8bec7bdbfc45ba295eb1b0b5bd13deae",
+      "usd_value": ""
+    },
+    {
+      "symbol": "MOG",
+      "chain": "undefined",
+      "contract": "f0ee105533acf39a337f711ed497aa46",
+      "usd_value": ""
+    },
+    {
+      "symbol": "JEET",
+      "chain": "undefined",
+      "contract": "2610fea81194dcda2cfdede7ad0a4866",
+      "usd_value": ""
+    },
+    {
+      "symbol": "DROP",
+      "chain": "undefined",
+      "contract": "961aaa6eef7c6d4f9b51f5c8a4aca66a",
+      "usd_value": ""
+    },
+    {
+      "symbol": "ARI",
+      "chain": "undefined",
+      "contract": "2fac15f512cb94bc8b07f79d7b1689fc",
+      "usd_value": ""
+    },
+    {
+      "symbol": "TEST",
+      "chain": "undefined",
+      "contract": "156c8b40c33e22b5ea22be89f24cd0c7",
+      "usd_value": ""
+    },
+    {
+      "symbol": "MEOW",
+      "chain": "undefined",
+      "contract": "aa44de3340d719e1fee6a82fe4598c4a",
+      "usd_value": ""
+    },
+    {
+      "symbol": "FRAC",
+      "chain": "undefined",
+      "contract": "5e997dfc85eea5d2cf0fa5a5c9d24e85",
+      "usd_value": ""
+    },
+    {
+      "symbol": "ATEHUN",
+      "chain": "undefined",
+      "contract": "34c49f75a4cde03ff301fc14eb27a167",
+      "usd_value": ""
+    },
+    {
+      "symbol": "NFT",
+      "chain": "undefined",
+      "contract": "a43055973790518d906741c1c4d2c746",
+      "usd_value": ""
+    },
+    {
+      "symbol": "PEAR",
+      "chain": "undefined",
+      "contract": "7cd71d2c4d44235054bbaa78144c2c26",
+      "usd_value": ""
+    },
+    {
+      "symbol": "GUESS",
+      "chain": "undefined",
+      "contract": "f423d53516f22d5303498ea97eb084e9",
+      "usd_value": ""
+    },
+    {
+      "symbol": "NEIRO",
+      "chain": "undefined",
+      "contract": "b61096621e35d06e3d96b20d8e3a57b4",
+      "usd_value": ""
+    },
+    {
+      "symbol": "BERA",
+      "chain": "undefined",
+      "contract": "501917a3a841b288a43b417df1b92631",
+      "usd_value": ""
+    },
+    {
+      "symbol": "RISE",
+      "chain": "undefined",
+      "contract": "fde53cf249740815a2ab409387a05fd7",
+      "usd_value": ""
+    },
+    {
+      "symbol": "SHREK",
+      "chain": "undefined",
+      "contract": "02b990b8c1c6a452907f06af8cff4d28",
+      "usd_value": ""
+    },
+    {
+      "symbol": "VAULT",
+      "chain": "undefined",
+      "contract": "cb122cf0acd5962544d3b01bc5e95ee3",
+      "usd_value": ""
+    },
+    {
+      "symbol": "MONAD",
+      "chain": "undefined",
+      "contract": "c22e1b5cc01c092de288a1faad83f69b",
+      "usd_value": ""
+    },
+    {
+      "symbol": "BOZO",
+      "chain": "undefined",
+      "contract": "2aae9e723802791764aae3f400aab094",
+      "usd_value": ""
+    },
+    {
+      "symbol": "UP",
+      "chain": "undefined",
+      "contract": "0e27f8ebbac43d198f8ffe03c2cbbe84",
+      "usd_value": ""
+    },
+    {
+      "symbol": "FATCAT",
+      "chain": "undefined",
+      "contract": "5c27dc43612d22936824930542ff1d0b",
+      "usd_value": ""
+    },
+    {
+      "symbol": "STRICT",
+      "chain": "undefined",
+      "contract": "249579b7acdbbb5d702dbc5f903b6426",
+      "usd_value": ""
+    },
+    {
+      "symbol": "LUCKY",
+      "chain": "undefined",
+      "contract": "98161369f278ab0150f20515a9e23054",
+      "usd_value": ""
+    },
+    {
+      "symbol": "MUNCH",
+      "chain": "undefined",
+      "contract": "434543533fb5044fa3b4d09be93ab44b",
+      "usd_value": ""
+    },
+    {
+      "symbol": "YAP",
+      "chain": "undefined",
+      "contract": "1ec2e603a34f60a65c0226b3c6c8683a",
+      "usd_value": ""
+    },
+    {
+      "symbol": "STEEL",
+      "chain": "undefined",
+      "contract": "24a57950651eb2226a911d252a5422b4",
+      "usd_value": ""
+    },
+    {
+      "symbol": "RETARD",
+      "chain": "undefined",
+      "contract": "9130ad1326af1550780529b1f0507a41",
+      "usd_value": ""
+    },
+    {
+      "symbol": "HYENA",
+      "chain": "undefined",
+      "contract": "cf841d50680ff6ead7453c1b74d4638b",
+      "usd_value": ""
+    },
+    {
+      "symbol": "SENT",
+      "chain": "undefined",
+      "contract": "0aa5e6e74f1bbce0ddc623dc7217e146",
+      "usd_value": ""
+    },
+    {
+      "symbol": "NEKO",
+      "chain": "undefined",
+      "contract": "3a1c9ef9275872abfa1a19755029866c",
+      "usd_value": ""
+    },
+    {
+      "symbol": "USDT0",
+      "chain": "undefined",
+      "contract": "7a6007445c80cdfeb4fd190b60b7ab9d",
+      "usd_value": ""
+    },
+    {
+      "symbol": "LICKO",
+      "chain": "undefined",
+      "contract": "24da411f3b4323fcb0f6f4adde7214fd",
+      "usd_value": ""
+    },
+    {
+      "symbol": "UDZ",
+      "chain": "undefined",
+      "contract": "d7538bb119a3b396606eac73dbd71d04",
+      "usd_value": ""
+    },
+    {
+      "symbol": "UMON",
+      "chain": "undefined",
+      "contract": "e23c15f5e1f755a6ea86782c296c0a23",
+      "usd_value": ""
+    },
+    {
+      "symbol": "ZAMA",
+      "chain": "undefined",
+      "contract": "e302582c1a4b8bb2cb8938863a6a6a52",
+      "usd_value": ""
+    },
+    {
+      "symbol": "MAX",
+      "chain": "undefined",
+      "contract": "47a6bb2079fe6dfcc1ffab8168f0857b",
+      "usd_value": ""
+    },
+    {
+      "symbol": "USDH",
+      "chain": "undefined",
+      "contract": "4e700d319c5a6bc87b8d94a721b68049",
+      "usd_value": ""
+    },
+    {
+      "symbol": "xyz:SP500",
+      "chain": "undefined",
+      "contract": "c8e6ffac644a3e7857200304bce2ef88",
+      "usd_value": ""
+    },
+    {
+      "symbol": "xyz:XYZ100",
+      "chain": "undefined",
+      "contract": "ef29fbe749cdc04f20ce1276e6aa1559",
+      "usd_value": ""
+    },
+    {
+      "symbol": "mkts:USTECH",
+      "chain": "undefined",
+      "contract": "2424c9bcb439a88adfa7e9c1ed4cbe40",
+      "usd_value": ""
+    },
+    {
+      "symbol": "WETH",
+      "chain": "eth",
+      "contract": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+      "usd_value": ""
+    },
+    {
+      "symbol": "USDM",
+      "chain": "hyper",
+      "contract": "0xe2d2959f89b6389deb624bf076fe7d9e5401f377",
+      "usd_value": ""
+    },
+    {
+      "symbol": "stETH",
+      "chain": "eth",
+      "contract": "0xae7ab96520de3a18e5e111b5eaab095312d7fe84",
+      "usd_value": ""
+    },
+    {
+      "symbol": "USDT",
+      "chain": "eth",
+      "contract": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+      "usd_value": ""
+    },
+    {
+      "symbol": "wstETH",
+      "chain": "eth",
+      "contract": "0x7f39c581f595b53c5cb19bd0b3f8da6c935e2ca0",
+      "usd_value": ""
+    },
+    {
+      "symbol": "gOHM",
+      "chain": "eth",
+      "contract": "0x0ab87046fbb341d058f17cbc4c1133f25a20a52f",
+      "usd_value": ""
+    },
+    {
+      "symbol": "USDS",
+      "chain": "eth",
+      "contract": "0xdc035d45d973e3ec169d2276ddab16f1e407384f",
+      "usd_value": ""
+    },
+    {
+      "symbol": "HONEY",
+      "chain": "bera",
+      "contract": "0xfcbd14dc51f0a4d49d5e53c2e0950e0bc26d0dce",
+      "usd_value": ""
+    },
+    {
+      "symbol": "WETH",
+      "chain": "bera",
+      "contract": "0x2f6f07cdcf3588944bf4c42ac74ff24bf56e7590",
+      "usd_value": ""
+    },
+    {
+      "symbol": "USDC.e",
+      "chain": "bera",
+      "contract": "0x549943e04f40284185054145c6e4e9568c1d3241",
+      "usd_value": ""
+    },
+    {
+      "symbol": "USD₮0",
+      "chain": "bera",
+      "contract": "0x779ded0c9e1022225f8e0630b35a9b54be713736",
+      "usd_value": ""
+    },
+    {
+      "symbol": "WBERA",
+      "chain": "bera",
+      "contract": "0x6969696969696969696969696969696969696969",
+      "usd_value": ""
+    },
+    {
+      "symbol": "iBERA",
+      "chain": "bera",
+      "contract": "0x9b6761bf2397bb5a6624a856cc84a3a14dcd3fe5",
+      "usd_value": ""
+    },
+    {
+      "symbol": "DOLO",
+      "chain": "bera",
+      "contract": "0x0f81001ef0a83ecce5ccebf63eb302c70a39a654",
+      "usd_value": ""
+    },
+    {
+      "symbol": "USD1",
+      "chain": "bsc",
+      "contract": "0x8d0d000ee44948fc98c9b98a4fa4921476f08b0d",
+      "usd_value": ""
+    },
+    {
+      "symbol": "TEMPLE",
+      "chain": "eth",
+      "contract": "0x470ebf5f030ed85fc1ed4c2d36b9dd02e77cf1b7",
+      "usd_value": ""
+    },
+    {
+      "symbol": "AAVE",
+      "chain": "eth",
+      "contract": "0x7fc66500c84a76ad7e9c93437bfc5ac33e2ddae9",
+      "usd_value": ""
+    },
+    {
+      "symbol": "LINK",
+      "chain": "eth",
+      "contract": "0x514910771af9ca656af840dff83e8264ecf986ca",
+      "usd_value": ""
+    },
+    {
+      "symbol": "Legacy Frax Dollar",
+      "chain": "eth",
+      "contract": "0x853d955acef822db058eb8505911ed77f175b99e",
+      "usd_value": ""
+    },
+    {
+      "symbol": "DAI",
+      "chain": "eth",
+      "contract": "0x6b175474e89094c44da98b954eedeac495271d0f",
+      "usd_value": ""
+    },
+    {
+      "symbol": "LUSD",
+      "chain": "eth",
+      "contract": "0x5f98805a4e8be255a32880fdec7f6728c6568ba0",
+      "usd_value": ""
+    },
+    {
+      "symbol": "AERO",
+      "chain": "base",
+      "contract": "0x940181a94a35a4569e4529a3cdfb74e38fd98631",
+      "usd_value": ""
+    },
+    {
+      "symbol": "WETH",
+      "chain": "base",
+      "contract": "0x4200000000000000000000000000000000000006",
+      "usd_value": ""
+    },
+    {
+      "symbol": "DRV",
+      "chain": "base",
+      "contract": "0x9d0e8f5b25384c7310cb8c6ae32c8fbeb645d083",
+      "usd_value": ""
+    },
+    {
+      "symbol": "CVX",
+      "chain": "eth",
+      "contract": "0x4e3fbd56cd56c3e72c1403e103b45db9da5b9d2b",
+      "usd_value": ""
+    },
+    {
+      "symbol": "FXN",
+      "chain": "eth",
+      "contract": "0x365accfca291e7d3914637abf1f7635db165bb09",
+      "usd_value": ""
+    },
+    {
+      "symbol": "cvxFXN",
+      "chain": "eth",
+      "contract": "0x183395dbd0b5e93323a7286d1973150697fffcb3",
+      "usd_value": ""
+    },
+    {
+      "symbol": "CRV",
+      "chain": "eth",
+      "contract": "0xd533a949740bb3306d119cc777fa900ba034cd52",
+      "usd_value": ""
+    },
+    {
+      "symbol": "feUSD",
+      "chain": "hyper",
+      "contract": "0x02c6a2fa58cc01a18b8d9e00ea48d65e4df26c70",
+      "usd_value": ""
+    },
+    {
+      "symbol": "BOLD",
+      "chain": "eth",
+      "contract": "0x6440f144b7e50d6a8439336510312d2f54beb01d",
+      "usd_value": ""
+    },
+    {
+      "symbol": "LQTY",
+      "chain": "eth",
+      "contract": "0x6dea81c8171d0ba574754ef6f8b412f2ed88c54d",
+      "usd_value": ""
+    },
+    {
+      "symbol": "EIGEN",
+      "chain": "eth",
+      "contract": "0xec53bf9167f50cdeb3ae105f56099aaab9061f83",
+      "usd_value": ""
+    },
+    {
+      "symbol": "ALT",
+      "chain": "eth",
+      "contract": "0x8457ca5040ad67fdebbcc8edce889a335bc0fbfb",
+      "usd_value": ""
+    },
+    {
+      "symbol": "HYBR",
+      "chain": "hyper",
+      "contract": "0x067b0c72aa4c6bd3bfefff443c536dcd6a25a9c8",
+      "usd_value": ""
+    },
+    {
+      "symbol": "cvxFXS",
+      "chain": "frax",
+      "contract": "0xefb4b26fc242478c9008274f9e81db89fa6adab9",
+      "usd_value": ""
+    },
+    {
+      "symbol": "WFRAX",
+      "chain": "frax",
+      "contract": "0xfc00000000000000000000000000000000000002",
+      "usd_value": ""
+    },
+    {
+      "symbol": "fxUSD",
+      "chain": "eth",
+      "contract": "0x085780639cc2cacd35e474e71f4d000e2405d8f6",
+      "usd_value": ""
+    },
+    {
+      "symbol": "GHO",
+      "chain": "eth",
+      "contract": "0x40d16fc0246ad3160ccc09b8d0d3a2cd28ae6c2f",
+      "usd_value": ""
+    },
+    {
+      "symbol": "bLUSD",
+      "chain": "eth",
+      "contract": "0xb9d7dddca9a4ac480991865efef82e01273f79c3",
+      "usd_value": ""
+    },
+    {
+      "symbol": "MIM",
+      "chain": "eth",
+      "contract": "0x99d8a9c45b2eca8864373a26d1459e3dff1e17f3",
+      "usd_value": ""
+    },
+    {
+      "symbol": "SPELL",
+      "chain": "eth",
+      "contract": "0x090185f2135308bad17527004364ebcc2d37e5f6",
+      "usd_value": ""
+    },
+    {
+      "symbol": "SifuM",
+      "chain": "eth",
+      "contract": "0x5938999dd0cc4d480c3b1a451aecc78ae4ddaab5",
+      "usd_value": ""
+    },
+    {
+      "symbol": "sUSDe",
+      "chain": "eth",
+      "contract": "0x9d39a5de30e57443bff2a8307a4256c8797a3497",
+      "usd_value": ""
+    },
+    {
+      "symbol": "sifu",
+      "chain": "eth",
+      "contract": "0x29127fe04ffa4c32acac0ffe17280abd74eac313",
+      "usd_value": ""
+    },
+    {
+      "symbol": "UwU (UwU Lend)",
+      "chain": "eth",
+      "contract": "0x55c08ca52497e2f1534b59e2917bf524d4765257",
+      "usd_value": ""
+    },
+    {
+      "symbol": "USD₮0",
+      "chain": "ink",
+      "contract": "0x0200c29006150606b650577bbe7b6248f58470c1",
+      "usd_value": ""
+    },
+    {
+      "symbol": "USDC",
+      "chain": "ink",
+      "contract": "0x2d270e6886d130d724215a266106e6832161eaed",
+      "usd_value": ""
+    },
+    {
+      "symbol": "crvUSD",
+      "chain": "eth",
+      "contract": "0xf939e0a03fb07f59a73314e73794be0e57ac1b4e",
+      "usd_value": ""
+    },
+    {
+      "symbol": "USDC",
+      "chain": "eth",
+      "contract": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+      "usd_value": ""
+    },
+    {
+      "symbol": "LINK",
+      "chain": "arb",
+      "contract": "0xf97f4df75117a78c1a5a0dbb814af92458539fb4",
+      "usd_value": ""
+    },
+    {
+      "symbol": "RAI (reflexer.finance)",
+      "chain": "eth",
+      "contract": "0x03ab458634910aad20ef5f1c8ee96f1d6ac54919",
+      "usd_value": ""
+    },
+    {
+      "symbol": "POL",
+      "chain": "katana",
+      "contract": "0xb24e3035d1fcbc0e43cf3143c3fd92e53df2009b",
+      "usd_value": ""
+    },
+    {
+      "symbol": "USDe",
+      "chain": "eth",
+      "contract": "0x4c9edd5852cd905f086c759e8383e09bff1e68b3",
+      "usd_value": ""
+    },
+    {
+      "symbol": "VELO(v2)",
+      "chain": "op",
+      "contract": "0x9560e827af36c94d2ac33a39bce1fe78631088db",
+      "usd_value": ""
+    },
+    {
+      "symbol": "USDC",
+      "chain": "op",
+      "contract": "0x0b2c639c533813f4aa9d7837caf62653d097ff85",
+      "usd_value": ""
+    },
+    {
+      "symbol": "OP",
+      "chain": "op",
+      "contract": "0x4200000000000000000000000000000000000042",
+      "usd_value": ""
+    },
+    {
+      "symbol": "KP3R",
+      "chain": "eth",
+      "contract": "0x1ceb5cb57c4d4e2b2433641b95dd330a33185a44",
+      "usd_value": ""
+    },
+    {
+      "symbol": "BARD",
+      "chain": "eth",
+      "contract": "0xf0db65d17e30a966c2ae6a21f6bba71cea6e9754",
+      "usd_value": ""
+    },
+    {
+      "symbol": "ALD",
+      "chain": "eth",
+      "contract": "0xb26c4b3ca601136daf98593feaeff9e0ca702a8d",
+      "usd_value": ""
+    },
+    {
+      "symbol": "ITP",
+      "chain": "eth",
+      "contract": "0x2b1d36f5b61addaf7da7ebbd11b35fd8cfb0de31",
+      "usd_value": ""
+    },
+    {
+      "symbol": "LOCKS",
+      "chain": "bera",
+      "contract": "0xb7e448e5677d212b8c8da7d6312e8afc49800466",
+      "usd_value": ""
+    },
+    {
+      "symbol": "PRG",
+      "chain": "bera",
+      "contract": "0xbf2e152f460090ace91a456e3dee5acf703f27ad",
+      "usd_value": ""
+    },
+    {
+      "symbol": "ALCX",
+      "chain": "eth",
+      "contract": "0xdbdb4d16eda451d0503b854cf79d55697f90c8df",
+      "usd_value": ""
+    },
+    {
+      "symbol": "weETH.mode",
+      "chain": "mode",
+      "contract": "0x04c0599ae5a44757c0af6f9ec3b93da8976c150a",
+      "usd_value": ""
+    },
+    {
+      "symbol": "CTR",
+      "chain": "eth",
+      "contract": "0xb3ad645db386d7f6d753b2b9c3f4b853da6890b8",
+      "usd_value": ""
+    },
+    {
+      "symbol": "cvxCRV",
+      "chain": "eth",
+      "contract": "0x62b9c7356a2dc64a1969e19c23e4f579f9810aa7",
+      "usd_value": ""
+    },
+    {
+      "symbol": "cvxFXS",
+      "chain": "eth",
+      "contract": "0xfeef77d3f69374f66429c91d732a244f074bdf74",
+      "usd_value": ""
+    },
+    {
+      "symbol": "KDK",
+      "chain": "bera",
+      "contract": "0xc0d1ac00a30fa4e30e44afc7313d6312c87e21df",
+      "usd_value": ""
+    },
+    {
+      "symbol": "BERA",
+      "chain": "bera",
+      "contract": "bera",
+      "usd_value": ""
+    },
+    {
+      "symbol": "OHM",
+      "chain": "bera",
+      "contract": "0x18878df23e2a36f81e820e4b47b4a40576d3159c",
+      "usd_value": ""
+    },
+    {
+      "symbol": "CREAM",
+      "chain": "eth",
+      "contract": "0x2ba592f78db6436527729929aaf6c908497cb200",
+      "usd_value": ""
+    },
+    {
+      "symbol": "unshETH",
+      "chain": "eth",
+      "contract": "0x0ae38f7e10a43b5b2fb064b42a2f4514cba909ef",
+      "usd_value": ""
+    },
+    {
+      "symbol": "stBTC",
+      "chain": "btr",
+      "contract": "0xf6718b2701d4a6498ef77d7c152b2137ab28b8a3",
+      "usd_value": ""
+    },
+    {
+      "symbol": "MON",
+      "chain": "monad",
+      "contract": "monad",
+      "usd_value": ""
+    },
+    {
+      "symbol": "WETH",
+      "chain": "mito",
+      "contract": "0x753b5467f902ebb448cc72d88da5f66c1c1c7758",
+      "usd_value": ""
+    },
+    {
+      "symbol": "xRAM",
+      "chain": "hyper",
+      "contract": "0xae6d5fce541216bda471d311425b5412d9f1deb9",
+      "usd_value": ""
+    },
+    {
+      "symbol": "GRT",
+      "chain": "eth",
+      "contract": "0xc944e90c64b2c07662a292be6244bdf05cda44a7",
+      "usd_value": ""
+    },
+    {
+      "symbol": "REZ",
+      "chain": "eth",
+      "contract": "0x3b50805453023a91a8bf641e279401a0b23fa6f9",
+      "usd_value": ""
+    },
+    {
+      "symbol": "SKATE",
+      "chain": "eth",
+      "contract": "0x61dbbbb552dc893ab3aad09f289f811e67cef285",
+      "usd_value": ""
+    },
+    {
+      "symbol": "KITTEN",
+      "chain": "hyper",
+      "contract": "0x618275f8efe54c2afa87bfb9f210a52f0ff89364",
+      "usd_value": ""
+    },
+    {
+      "symbol": "LINK0",
+      "chain": "hyper",
+      "contract": "0x9a12cb8869498d8826567437abea27be1c2ba9ab",
+      "usd_value": ""
+    },
+    {
+      "symbol": "HYPER",
+      "chain": "eth",
+      "contract": "0x93a2db22b7c736b341c32ff666307f4a9ed910f5",
+      "usd_value": ""
+    },
+    {
+      "symbol": "ETHFI",
+      "chain": "eth",
+      "contract": "0xfe0c30065b384f05761f15d0cc899d4f9f9cc0eb",
+      "usd_value": ""
+    },
+    {
+      "symbol": "GHST",
+      "chain": "matic",
+      "contract": "0x385eeac5cb85a38a9a07a70c73e0a3271cfb54a7",
+      "usd_value": ""
+    },
+    {
+      "symbol": "GLTR",
+      "chain": "matic",
+      "contract": "0x3801c3b3b5c98f88a9c9005966aa96aa440b9afc",
+      "usd_value": ""
+    },
+    {
+      "symbol": "PLUG",
+      "chain": "bera",
+      "contract": "0x231a6bd8eb88cfa42776b7ac575cecaf82bf1e21",
+      "usd_value": ""
+    },
+    {
+      "symbol": "henlocked@330m",
+      "chain": "bera",
+      "contract": "0x37dd8850919ebdca911c383211a70839a94b0539",
+      "usd_value": ""
+    },
+    {
+      "symbol": "henlocked@690m",
+      "chain": "bera",
+      "contract": "0x8ab854dc0672d7a13a85399a56cb628fb22102d6",
+      "usd_value": ""
+    },
+    {
+      "symbol": "henlocked@100m",
+      "chain": "bera",
+      "contract": "0x7bdf98ddeed209cfa26bd2352b470ac8b5485ec5",
+      "usd_value": ""
+    },
+    {
+      "symbol": "henlocked@420m",
+      "chain": "bera",
+      "contract": "0xf07fa3ece9741d408d643748ff85710bedef25ba",
+      "usd_value": ""
+    },
+    {
+      "symbol": "henlocked@1b",
+      "chain": "bera",
+      "contract": "0xf0edfc3e122db34773293e0e5b2c3a58492e7338",
+      "usd_value": ""
+    },
+    {
+      "symbol": "bm",
+      "chain": "bera",
+      "contract": "0xb749584f9fc418cf905d54f462fdbfdc7462011b",
+      "usd_value": ""
+    },
+    {
+      "symbol": "HENLO",
+      "chain": "bera",
+      "contract": "0xb2f776e9c1c926c4b2e54182fac058da9af0b6a5",
+      "usd_value": ""
+    },
+    {
+      "symbol": "DMT",
+      "chain": "arb",
+      "contract": "0x8b0e6f19ee57089f7649a455d89d7bc6314d04e8",
+      "usd_value": ""
+    },
+    {
+      "symbol": "sdFXN",
+      "chain": "eth",
+      "contract": "0xe19d1c837b8a1c83a56cd9165b2c0256d39653ad",
+      "usd_value": ""
+    },
+    {
+      "symbol": "WBTC",
+      "chain": "btr",
+      "contract": "0xff204e2681a6fa0e2c3fade68a1b28fb90e4fc5f",
+      "usd_value": ""
+    }
+  ]
+}
